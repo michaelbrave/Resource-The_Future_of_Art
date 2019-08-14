@@ -46,11 +46,7 @@ Dear Data - Personal Data Visualization Project - http://www.dear-data.com/thepr
 
 ## Communities
 
-Proc Jam http://www.procjam.com/ - Dischord https://discord.gg/67yD223 - Zine http://www.procjam.com/seeds/
-
-### Community Locations
-
-### Events
+Proc Jam http://www.procjam.com/ - Dischord https://discord.gg/67yD223 - Zine http://www.procjam.com/seeds/ - Youtube https://www.youtube.com/channel/UCgFSPzCM9rx_Hxl-g13KcYw - Twitter https://twitter.com/procjam
 
 ## Projects of Note
 
