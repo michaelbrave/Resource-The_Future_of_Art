@@ -2,6 +2,10 @@
 
 ## Experts & People of Note
 
+**Michael Brave - Currator of This List**
+- https://twitter.com/SomeBraveDude
+- https://github.com/michaelbrave
+
 **Robbie Barrat - AI Artist**
 - https://robbiebarrat.github.io/
 - https://twitter.com/drbeef_
@@ -92,6 +96,14 @@
 
 ## Resources
 
+### Tools & Software
+
+**Processing**
+- https://processing.org/
+
+**P5.JS**
+- https://p5js.org/
+
 ### Tutorials
 
 ### Readings
@@ -154,15 +166,67 @@
 
 ## Projects of Note
 
+## Historical Timeline
 
-## Glossary
+
+# Related Fields
+
+## Interactive Narrative
+
+## AI Art
+
+**Gene Kogan**
+- https://twitter.com/genekogan
+
+**Mario Klingemann**
+- http://quasimondo.com/
+- https://twitter.com/quasimondo
+
+**Memo Akten**
+- http://www.memo.tv/works/#selected-works
+- https://twitter.com/memotv
+
+
+
+## Robotic Assisted/Collabortive Creation & Art
+
+**Patrick Tresset - Technolocial Artist**
+- https://tresset.squarespace.com/
+- https://twitter.com/patricktresset
+
+## AI, Deep Learning & Machine Learning**
+
+**Ian Goodfellow - Deep Learning & GANs**
+- http://www.iangoodfellow.com/
+- https://twitter.com/goodfellow_ian
+
+**Yann LeCun - AI @ Facebook**
+- http://yann.lecun.com/
+- https://twitter.com/ylecun
+
+**Janelle Shane - Neural Networks & Optics**
+- https://aiweirdness.com/post/186656280482/an-ai-weirdness-book
+- https://twitter.com/JanelleCShane
+
+**Patrick Hebron - Adobe AI**
+- https://www.patrickhebron.com/
+- https://twitter.com/PatrickHebron
+
+## Algortithims
+
+## Game Design
+
+## Old School Generative
+Paint By Number
+Dice Maps
+
+
+
+# Glossary
 
 Procedural Generation
 
 Generative Design
 
 Rhinocerous, Dynamo, Grasshopper & Parametric Design
-
-
-
 
