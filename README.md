@@ -14,7 +14,7 @@
 #### Research
 
 #### Other
-[Dear Data - Personal Data Visualization Project] (http://www.dear-data.com/theproject)
+..* Dear Data - Personal Data Visualization Project - http://www.dear-data.com/theproject
 
 ### Related Useful Readings (Not Procedural Generation But Helpful)
 
