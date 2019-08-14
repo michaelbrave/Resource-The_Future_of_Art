@@ -7,6 +7,43 @@
 - https://twitter.com/drbeef_
 - https://github.com/robbiebarrat
 
+**Noor Shaker - Researcher / Professor**
+- http://lynura.com/
+
+**Julian Togelius - Researcher / Professor**
+- http://julian.togelius.com/
+
+**Mark J. Nelson - Researcher / Professor**
+- http://www.kmjn.org/
+- https://twitter.com/mm_jj_nn
+
+Antonios Liapis
+
+Ricardo Lopes
+
+Rafael Bidarra
+
+Joris Dormans
+
+Cameron Browne
+
+Michael Cook
+
+Yun-Gyung Cheong
+
+Mark O. Riedl
+
+Byung-Chull Bae
+
+Adam M. Smith
+
+Daniel Ashlock
+
+Sebastian Risi
+
+Georgios N. Yannakakis
+
+Gillian Smith
 
 
 ## Resources
@@ -16,6 +53,8 @@
 ### Readings
 
 #### Books
+Procedural Content Generation in Games - Noor Shaker, Julian Togelius, Mark J. Nelson,   - http://pcgbook.com/
+
 The Sciences of the Artificial - Herbert Simon - https://www.amazon.com/Sciences-Artificial-3rd-Herbert-Simon/
 
 #### Research
