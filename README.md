@@ -2,19 +2,38 @@
 
 ## Experts & People of Note
 
+
 ## Resources
 
-## Tutorials
+### Tutorials
 
-## Readings
+### Readings
 
-## Related Useful Readings
+#### Books
 
-## Events
+#### Research
+
+#### Other
+[Dear Data - Personal Data Visualization Project] (http://www.dear-data.com/theproject)
+
+### Related Useful Readings (Not Procedural Generation But Helpful)
+
+#### Books
+
+#### Research
+
+#### Other
+
+
+
 
 ## Communities
 
-## Projects
+### Community Locations
+
+### Events
+
+## Projects of Note
 
 
 
