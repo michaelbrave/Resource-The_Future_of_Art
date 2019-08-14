@@ -17,33 +17,38 @@
 - http://www.kmjn.org/
 - https://twitter.com/mm_jj_nn
 
-Antonios Liapis
+**Antonios Liapis**
+- http://antoniosliapis.com/
 
-Ricardo Lopes
+**Ricardo Lopes**
+- https://graphics.tudelft.nl/ricardo-lopes/
 
-Rafael Bidarra
+**Rafael Bidarra**
+- https://graphics.tudelft.nl/~rafa/
 
-Joris Dormans
+**Joris Dormans** - Game Designer
+- https://www.ludomotion.com/
+- https://github.com/jorisdormans
 
-Cameron Browne
+**Cameron Browne**
 
-Michael Cook
+**Michael Cook**
 
-Yun-Gyung Cheong
+**Yun-Gyung Cheong**
 
-Mark O. Riedl
+**Mark O. Riedl**
 
-Byung-Chull Bae
+**Byung-Chull Bae**
 
-Adam M. Smith
+**Adam M. Smith**
 
-Daniel Ashlock
+**Daniel Ashlock**
 
-Sebastian Risi
+**Sebastian Risi**
 
-Georgios N. Yannakakis
+**Georgios N. Yannakakis**
 
-Gillian Smith
+**Gillian Smith**
 
 
 ## Resources
@@ -94,13 +99,16 @@ Dear Data - Personal Data Visualization Project - http://www.dear-data.com/thepr
 - Youtube https://www.youtube.com/channel/UCgFSPzCM9rx_Hxl-g13KcYw
 - Twitter https://twitter.com/procjam
 
-**Reddit Subreddits**
+**Reddit**
 - Creative Coding https://www.reddit.com/r/creativecoding/
 - Procedural Generation https://www.reddit.com/r/proceduralgeneration/
 - Generative https://www.reddit.com/r/generative/
 - Generative Art https://www.reddit.com/r/generativeart/
 - Media Synthesis https://www.reddit.com/r/MediaSynthesis/
 - Game Ai https://www.reddit.com/r/gameai/
+
+**Advanced Topics in PCG**
+- https://blogit.itu.dk/atpcg/
 
 ## Projects of Note
 
