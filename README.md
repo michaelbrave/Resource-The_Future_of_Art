@@ -6,7 +6,9 @@ I believe generative design will be the killer app of AI, and that like the pc b
 
 If you have proposed edits don't hesitate to get in touch and I'll take care of it as quickly as I can. 
 
-## Experts & People of Note
+# Procedural Generation 
+
+## Experts & People of Note ---
 
 **Michael Brave - Student / Currator of This List**
 - https://twitter.com/SomeBraveDude
@@ -116,7 +118,7 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 - http://ccg.doc.gold.ac.uk/simoncolton/
 - https://twitter.com/SimonGColton
 
-## Resources
+## Resources ---
 
 ### Tools & Software
 
@@ -149,30 +151,7 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 AI That Teaches Architecture In Minecraft - https://www.futurity.org/artificial-intelligence-minecraft-1906842/
 - PDF - http://www.cs.cornell.edu/~eland/papers/aiide2018.pdf
 
-### Related Useful Readings (Not Procedural Generation But Helpful)
-
-#### Books
-- Computers As Theatre - Brenda Laurel - https://www.amazon.com/Computers-Theatre-2nd-Brenda-Laurel/
-
-- Narrative Complexity: Cognition, Embodiment, Evolution - by Marina Grishakova, Maria Poulaki - https://www.amazon.com/Narrative-Complexity-Cognition-Embodiment-Evolution-ebook/
-
-- Expressive Processing: Digital Fictions, Computer Games, and Software Studies - Noah Wardrip-Fruin - https://www.amazon.com/Expressive-Processing-Fictions-Computer-Software-ebook/
-
-- Interactive Digital Narrative: History, Theory and Practice - by Hartmut Koenitz, Gabriele Ferri, Mads Haahr, Diğdem Sezen, Tonguç İbrahim Sezen - https://www.amazon.com/Interactive-Digital-Narrative-Routledge-Communication/ 
-
-- Chris Crawford on Interactive Storytelling - Chris Crawford - https://www.amazon.com/Chris-Crawford-Interactive-Storytelling-ebook/
-
-- Playing with Feelings: Video Games and Affect - Aubrey Anable - https://www.amazon.com/Playing-Feelings-Video-Games-Affect-ebook/
-
-#### Research
-
-#### Other
-- Dear Data - Personal Data Visualization Project - http://www.dear-data.com/theproject
-
-- Artnome - Technology Art Essays - https://www.artnome.com 
-
-
-## Communities
+## Communities ---
 
 **Proc Jam**
 - http://www.procjam.com/
@@ -201,7 +180,7 @@ AI That Teaches Architecture In Minecraft - https://www.futurity.org/artificial-
 **Computational Creativity**
 - http://computationalcreativity.net/home/
 
-## Projects of Note
+## Projects of Note ---
 
 Endless Screaming Twitter Bot
 - https://twitter.com/infinite_scream
@@ -219,21 +198,182 @@ Panoramical
 - http://www.panoramic.al/
 
 
+## Historical Timeline ---
 
-## Historical Timeline
+## Glossary & Terms ---
 
+Procedural Generation
 
-# Related Fields
+Generative Design
 
-## Interactive Narrative
+Rhinocerous, Dynamo, Grasshopper & Parametric Design
 
-## Computational Art
+---
+
+# Generative Design, Engineering & Architecture (Related Field)
+
+## Experts & People of Note ---
+
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
+
+---
+
+# Human Computer Interaction & User Experience (Related Field)
+
+## Experts & People of Note ---
+
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
+
+---
+
+# Interactive Narrative (Related Field)
+
+## Experts & People of Note ---
+
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+- Narrative Complexity: Cognition, Embodiment, Evolution - by Marina Grishakova, Maria Poulaki - https://www.amazon.com/Narrative-Complexity-Cognition-Embodiment-Evolution-ebook/
+
+- Computers As Theatre - Brenda Laurel - https://www.amazon.com/Computers-Theatre-2nd-Brenda-Laurel/
+
+- Interactive Digital Narrative: History, Theory and Practice - by Hartmut Koenitz, Gabriele Ferri, Mads Haahr, Diğdem Sezen, Tonguç İbrahim Sezen - https://www.amazon.com/Interactive-Digital-Narrative-Routledge-Communication/ 
+
+- Chris Crawford on Interactive Storytelling - Chris Crawford - https://www.amazon.com/Chris-Crawford-Interactive-Storytelling-ebook/
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
+
+---
+
+# Computational Art & Creative Coding (Related Field)
+
+## Experts & People of Note ---
 
 **Max Hawkins - Art, Computers, Randomization**
 - https://maxhawkins.me/
 - https://twitter.com/maxhawkins
 
-## AI Art
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+
+- Expressive Processing: Digital Fictions, Computer Games, and Software Studies - Noah Wardrip-Fruin - https://www.amazon.com/Expressive-Processing-Fictions-Computer-Software-ebook/
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
+
+Plotter
+
+---
+
+# AI Art (Related Field)
+
+## Experts & People of Note ---
+
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+
+#### Research
+
+#### Other
+
+- Artnome - Technology Art Essays - https://www.artnome.com 
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
 
 **Gene Kogan**
 - https://twitter.com/genekogan
@@ -250,14 +390,77 @@ Panoramical
 - https://drib.net/
 - https://twitter.com/dribnet
 
+---
 
-## Robotic Creation/Collaboration & Art
+# Data Visualization (Related Field)
+
+## Experts & People of Note ---
+
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+- Dear Data - Personal Data Visualization Project - http://www.dear-data.com/theproject
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
+
+
+---
+
+# Robotic Creation/Collaboration & Art (Related Fields)
+
+## Experts & People of Note ---
 
 **Patrick Tresset - Technolocial Artist**
 - https://tresset.squarespace.com/
 - https://twitter.com/patricktresset
 
-## AI, Deep Learning & Machine Learning
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
+
+---
+
+# AI, Deep Learning & Machine Learning (Related Fields)
+
+## Experts & People of Note ---
 
 **Ian Goodfellow - Deep Learning & GANs**
 - http://www.iangoodfellow.com/
@@ -297,13 +500,118 @@ Panoramical
 **Cynthia Breazeal - Children & AI Collaborative Learning**
 - https://twitter.com/cynthiabreazeal
 
+## Resources ---
 
+### Tools & Software
 
-## Algortithims
+### Tutorials
 
-## Game Design
+### Readings
 
-## Old School Generative
+#### Books
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
+
+---
+
+# Algortithims (Related Field)
+
+## Experts & People of Note ---
+
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
+
+---
+
+# Game Design (Related Field)
+
+## Experts & People of Note ---
+
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+
+- Playing with Feelings: Video Games and Affect - Aubrey Anable - https://www.amazon.com/Playing-Feelings-Video-Games-Affect-ebook/
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
+## Historical Timeline ---
+
+## Glossary & Terms ---
+
+---
+
+# Old School Generative Techniques (Related Field)
+
+## Experts & People of Note ---
+
+## Resources ---
+
+### Tools & Software
+
+### Tutorials
+
+### Readings
+
+#### Books
+
+#### Research
+
+#### Other
+
+#### Articles of Interest
+
+## Communities ---
+
+## Projects of Note ---
+
 Paint By Number
 
 Dice Maps
@@ -312,13 +620,7 @@ Tarot Card Readings
 
 Mozart & Dice Music
 
+## Historical Timeline ---
 
-
-# Glossary
-
-Procedural Generation
-
-Generative Design
-
-Rhinocerous, Dynamo, Grasshopper & Parametric Design
+## Glossary & Terms ---
 
