@@ -151,7 +151,8 @@
 
 ## Communities
 
-**Proc Jam http://www.procjam.com/**
+**Proc Jam**
+- http://www.procjam.com/
 - Dischord https://discord.gg/67yD223
 - Zine http://www.procjam.com/seeds/
 - Youtube https://www.youtube.com/channel/UCgFSPzCM9rx_Hxl-g13KcYw
@@ -198,13 +199,13 @@
 - https://twitter.com/dribnet
 
 
-## Robotic Assisted/Collabortive Creation & Art
+## Robotic Creation/Collaboration & Art
 
 **Patrick Tresset - Technolocial Artist**
 - https://tresset.squarespace.com/
 - https://twitter.com/patricktresset
 
-## AI, Deep Learning & Machine Learning**
+## AI, Deep Learning & Machine Learning
 
 **Ian Goodfellow - Deep Learning & GANs**
 - http://www.iangoodfellow.com/
