@@ -1,6 +1,6 @@
 ﻿# Procedural-Generation-Resources
 
-This document is my attempt at organizing as many of the resources about procedural generation and all related fields in one place. Since in many ways this is an emerging field I have also included other fields like; Generative Art, AI Art, Creative Coding, Robot Assisted Creation, Generative Design, Game AI, Human Computer Interaction, Interactive Narrative and any other thing I feel is relevant or related to the study of using computers to make things either independent of human input or collaboratively with it. 
+This document is my attempt at organizing as many of the resources about procedural generation and all related fields in one place. Due to this being an emerging field I have also included other fields like; Generative Art, AI Art, Creative Coding, Computational Creativity, Robot Assisted Creation, Generative Design, Game AI, Human Computer Interaction, Interactive Narrative, Intelligent Narratives, Automated Storytelling Technology, Algorithmic Content, and any other thing I feel is relevant or related to the study of using computers to make things either independent of human input or collaboratively with it. My particular background is in art and game design so my initial leanings will have a bit of bias in the information I gather, but I hope that as others see where my resource is lacking they will tell me so that I can improve it, and fix the shortcomings. 
 
 I believe generative design will be the killer app of AI, and that like the pc became the bicylce of the mind, I think this field will be what gives it an engine. 
 
@@ -11,6 +11,11 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 **Michael Brave - Student / Currator of This List**
 - https://twitter.com/SomeBraveDude
 - https://github.com/michaelbrave
+
+**Kate Compton - Professor / Game Designer**
+- http://www.galaxykate.com/
+- https://github.com/galaxykate
+- https://twitter.com/GalaxyKate
 
 **Noor Shaker - Researcher / Professor**
 - http://lynura.com/
@@ -107,6 +112,10 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 - https://www.johnsupko.com/
 - https://twitter.com/supko
 
+**Simon Colton**
+- http://ccg.doc.gold.ac.uk/simoncolton/
+- https://twitter.com/SimonGColton
+
 ## Resources
 
 ### Tools & Software
@@ -116,6 +125,9 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 
 **P5.JS**
 - https://p5js.org/
+
+**Tracery - Generation Tool**
+- http://tracery.io/
 
 ### Tutorials
 
@@ -132,6 +144,10 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 #### Other
 
 - Procedural Generation Blog By Isaac Karth - https://procedural-generation.isaackarth.com/
+
+#### Articles of Interest
+AI That Teaches Architecture In Minecraft - https://www.futurity.org/artificial-intelligence-minecraft-1906842/
+- PDF - http://www.cs.cornell.edu/~eland/papers/aiide2018.pdf
 
 ### Related Useful Readings (Not Procedural Generation But Helpful)
 
@@ -153,6 +169,7 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 #### Other
 - Dear Data - Personal Data Visualization Project - http://www.dear-data.com/theproject
 
+- Artnome - Technology Art Essays - https://www.artnome.com 
 
 
 ## Communities
@@ -178,7 +195,30 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 **Foundations of Digital Games (Has PCG Workshops)**
 - http://www.foundationsofdigitalgames.org/
 
+**Generative Design in Minecraft Competition & Ongoing Research**
+- http://gendesignmc.engineering.nyu.edu/
+
+**Computational Creativity**
+- http://computationalcreativity.net/home/
+
 ## Projects of Note
+
+Endless Screaming Twitter Bot
+- https://twitter.com/infinite_scream
+
+Toca Hair Salon App
+- https://tocaboca.com/app/toca-hair-salon/
+
+Kinemetics of Dress
+- https://n-e-r-v-o-u-s.com/projects/sets/kinematics-dress/
+
+The Treachery of Sanctuary - Interactive Art Installment
+- http://milk.co/treachery
+
+Panoramical
+- http://www.panoramic.al/
+
+
 
 ## Historical Timeline
 
@@ -186,6 +226,12 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 # Related Fields
 
 ## Interactive Narrative
+
+## Computational Art
+
+**Max Hawkins - Art, Computers, Randomization**
+- https://maxhawkins.me/
+- https://twitter.com/maxhawkins
 
 ## AI Art
 
@@ -259,7 +305,12 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 
 ## Old School Generative
 Paint By Number
+
 Dice Maps
+
+Tarot Card Readings
+
+Mozart & Dice Music
 
 
 
