@@ -8,7 +8,7 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 
 # Procedural Generation 
 
-## Experts & People of Note ---
+## Experts & People of Note
 
 **Michael Brave - Student / Currator of This List**
 - https://twitter.com/SomeBraveDude
@@ -118,7 +118,7 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 - http://ccg.doc.gold.ac.uk/simoncolton/
 - https://twitter.com/SimonGColton
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -143,6 +143,24 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 #### Research
 - Data-driven Design: A Case for Maximalist Game Design - Gabriella A. B. Barros, Michael Cerny Green, Antonios Liapis, Julian Togelius - https://arxiv.org/abs/1805.12475
 
+- Procedural Content Generation via Machine Learning - Adam Summerville, Sam Snodgrass, Matthew Guzdial, Christoffer Holmgård, Amy K. Hoover, Aaron Isaksen, Andy Nealen, Julian Togelius
+- https://arxiv.org/abs/1702.00539
+
+- Explainable AI for Designers: A Human-Centered Perspective on Mixed-Initiative Co-Creation - Jichen Zhu, Antonios Liapis, Sebastian Risi, Rafael Bidarra and Michael Youngblood
+- http://stianrisi.com/wp-content/uploads/zhu_cig18.pdf
+
+Mixed-Initiative Co-Creativity - Georgios N. Yannakakis, Antonios Liapis, Constantine Alexopoulos
+- http://www.antoniosliapis.com/papers/mixed_initiative_co-creativity.pdf
+
+Analyzing the Expressive Range of a Level Generator - Gillian Smith, Jim Whitehead
+- https://games.soe.ucsc.edu/sites/default/files/smith-expressiverange-fdgpcg10.pdf
+
+DATA Agent - Michael Cerny Green, Gabriella A. B. Barros, Antonios Liapis, Julian Togelius
+- https://arxiv.org/abs/1810.02251
+
+Formalizing Non-Formalism: Breaking the Rules of Automated Game Design - Michael Cook, Gillian Smith
+- https://www.semanticscholar.org/paper/Formalizing-Non-Formalism%3A-Breaking-the-Rules-of-Cook-Smith/038ea2972b3c336a6b1faaffdabae2cbff6faf44
+
 #### Other
 
 - Procedural Generation Blog By Isaac Karth - https://procedural-generation.isaackarth.com/
@@ -151,7 +169,7 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 AI That Teaches Architecture In Minecraft - https://www.futurity.org/artificial-intelligence-minecraft-1906842/
 - PDF - http://www.cs.cornell.edu/~eland/papers/aiide2018.pdf
 
-## Communities ---
+## Communities
 
 **Proc Jam**
 - http://www.procjam.com/
@@ -180,7 +198,7 @@ AI That Teaches Architecture In Minecraft - https://www.futurity.org/artificial-
 **Computational Creativity**
 - http://computationalcreativity.net/home/
 
-## Projects of Note ---
+## Projects of Note
 
 Endless Screaming Twitter Bot
 - https://twitter.com/infinite_scream
@@ -197,10 +215,12 @@ The Treachery of Sanctuary - Interactive Art Installment
 Panoramical
 - http://www.panoramic.al/
 
+Desert Golfing
+- https://captaingames.itch.io/desert-golfing
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 Procedural Generation
 
@@ -212,9 +232,9 @@ Rhinocerous, Dynamo, Grasshopper & Parametric Design
 
 # Generative Design, Engineering & Architecture (Related Field)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -230,21 +250,21 @@ Rhinocerous, Dynamo, Grasshopper & Parametric Design
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 ---
 
 # Human Computer Interaction & User Experience (Related Field)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -260,21 +280,21 @@ Rhinocerous, Dynamo, Grasshopper & Parametric Design
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 ---
 
 # Interactive Narrative (Related Field)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -297,25 +317,25 @@ Rhinocerous, Dynamo, Grasshopper & Parametric Design
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 ---
 
 # Computational Art & Creative Coding (Related Field)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
 **Max Hawkins - Art, Computers, Randomization**
 - https://maxhawkins.me/
 - https://twitter.com/maxhawkins
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -333,13 +353,13 @@ Rhinocerous, Dynamo, Grasshopper & Parametric Design
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 Plotter
 
@@ -347,9 +367,9 @@ Plotter
 
 # AI Art (Related Field)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -367,13 +387,13 @@ Plotter
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 **Gene Kogan**
 - https://twitter.com/genekogan
@@ -394,9 +414,9 @@ Plotter
 
 # Data Visualization (Related Field)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -412,27 +432,27 @@ Plotter
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 - Dear Data - Personal Data Visualization Project - http://www.dear-data.com/theproject
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 
 ---
 
 # Robotic Creation/Collaboration & Art (Related Fields)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
 **Patrick Tresset - Technolocial Artist**
 - https://tresset.squarespace.com/
 - https://twitter.com/patricktresset
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -448,19 +468,19 @@ Plotter
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 ---
 
 # AI, Deep Learning & Machine Learning (Related Fields)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
 **Ian Goodfellow - Deep Learning & GANs**
 - http://www.iangoodfellow.com/
@@ -500,7 +520,7 @@ Plotter
 **Cynthia Breazeal - Children & AI Collaborative Learning**
 - https://twitter.com/cynthiabreazeal
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -516,21 +536,21 @@ Plotter
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 ---
 
 # Algortithims (Related Field)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -546,21 +566,21 @@ Plotter
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 ---
 
 # Game Design (Related Field)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -578,21 +598,21 @@ Plotter
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
 ---
 
 # Old School Generative Techniques (Related Field)
 
-## Experts & People of Note ---
+## Experts & People of Note
 
-## Resources ---
+## Resources
 
 ### Tools & Software
 
@@ -608,9 +628,9 @@ Plotter
 
 #### Articles of Interest
 
-## Communities ---
+## Communities
 
-## Projects of Note ---
+## Projects of Note
 
 Paint By Number
 
@@ -620,7 +640,7 @@ Tarot Card Readings
 
 Mozart & Dice Music
 
-## Historical Timeline ---
+## Historical Timeline
 
-## Glossary & Terms ---
+## Glossary & Terms
 
