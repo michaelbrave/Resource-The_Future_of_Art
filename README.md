@@ -2,14 +2,9 @@
 
 ## Experts & People of Note
 
-**Michael Brave - Currator of This List**
+**Michael Brave - Student / Currator of This List**
 - https://twitter.com/SomeBraveDude
 - https://github.com/michaelbrave
-
-**Robbie Barrat - AI Artist**
-- https://robbiebarrat.github.io/
-- https://twitter.com/drbeef_
-- https://github.com/robbiebarrat
 
 **Noor Shaker - Researcher / Professor**
 - http://lynura.com/
@@ -34,7 +29,6 @@
 **Ricardo Lopes**
 - https://graphics.tudelft.nl/ricardo-lopes/
 - https://scholar.google.co.kr/citations?hl=en&user=Yk-g-qgAAAAJ
-- 
 
 **Rafael Bidarra**
 - https://graphics.tudelft.nl/~rafa/
@@ -93,6 +87,19 @@
 - http://sokath.com/home/
 - https://scholar.google.co.kr/citations?hl=en&user=4bHar00AAAAJ
 - https://twitter.com/gillianmsmith
+
+**Robbie Barrat - AI Artist**
+- https://robbiebarrat.github.io/
+- https://twitter.com/drbeef_
+- https://github.com/robbiebarrat
+
+**Tero Parviainen - Generative Musician**
+- https://ctpt.co/
+- https://twitter.com/teropa
+
+**John Supko - Generative Musician**
+- https://www.johnsupko.com/
+- https://twitter.com/supko
 
 ## Resources
 
@@ -186,6 +193,9 @@
 - http://www.memo.tv/works/#selected-works
 - https://twitter.com/memotv
 
+**Tom White - Ai Illustrator**
+- https://drib.net/
+- https://twitter.com/dribnet
 
 
 ## Robotic Assisted/Collabortive Creation & Art
@@ -211,6 +221,30 @@
 **Patrick Hebron - Adobe AI**
 - https://www.patrickhebron.com/
 - https://twitter.com/PatrickHebron
+
+**Andrew Ng - Online AI Educator**
+- https://twitter.com/AndrewYNg
+
+**Angelica Lim - Empathy AI & Robotics**
+- http://www.angelicalim.com/
+- https://twitter.com/petitegeek
+
+**Anima Anandkumar - Nvidia AI**
+- http://tensorlab.cms.caltech.edu/users/anima/
+- https://twitter.com/AnimaAnandkumar
+
+**Oriol Vinyals - Alphastar Starcraft AI**
+- https://scholar.google.com/citations?user=NkzyCvUAAAAJ&hl=en
+- https://twitter.com/OriolVinyalsML
+
+**Roelof Pieters - Creative.ai**
+- https://creative.ai/
+- https://twitter.com/graphific
+
+**Cynthia Breazeal - Children & AI Collaborative Learning**
+- https://twitter.com/cynthiabreazeal
+
+
 
 ## Algortithims
 
