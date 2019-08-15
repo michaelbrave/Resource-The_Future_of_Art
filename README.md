@@ -1,5 +1,11 @@
 ﻿# Procedural-Generation-Resources
 
+This document is my attempt at organizing as many of the resources about procedural generation and all related fields in one place. Since in many ways this is an emerging field I have also included other fields like; Generative Art, AI Art, Creative Coding, Robot Assisted Creation, Generative Design, Game AI, Human Computer Interaction, Interactive Narrative and any other thing I feel is relevant or related to the study of using computers to make things either independent of human input or collaboratively with it. 
+
+I believe generative design will be the killer app of AI, and that like the pc became the bicylce of the mind, I think this field will be what gives it an engine. 
+
+If you have proposed edits don't hesitate to get in touch and I'll take care of it as quickly as I can. 
+
 ## Experts & People of Note
 
 **Michael Brave - Student / Currator of This List**
