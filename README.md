@@ -162,6 +162,8 @@ If you have proposed edits don't hesitate to get in touch and I'll take care of 
 #### Articles of Interest
 - AI That Teaches Architecture In Minecraft - https://www.futurity.org/artificial-intelligence-minecraft-1906842/ - http://www.cs.cornell.edu/~eland/papers/aiide2018.pdf
 
+Practical Procedural Generation for Everyone - GDC 2017 - Kate Compton - https://www.youtube.com/watch?v=WumyfLEa6bU
+
 ## Communities
 
 **Proc Jam**
