@@ -3,6 +3,7 @@
 ## Experts & People of Note
 
 ## Resources
+- https://in4k.github.io/wiki/about
 
 ### Tools & Software
 

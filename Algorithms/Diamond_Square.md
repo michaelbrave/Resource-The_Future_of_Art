@@ -1,0 +1,1 @@
+The diamond-square algorithm is a method for generating heightmaps

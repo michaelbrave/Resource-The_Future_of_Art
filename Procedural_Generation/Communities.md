@@ -31,3 +31,19 @@
 
 **Open Processing**
 - https://www.openprocessing.org/
+
+**Roguelike Celebration**
+- https://roguelike.club/
+
+**NaNoGenMo**
+- https://nanogenmo.github.io/
+
+## Events
+
+- Grow https://www.grow.paris/
+
+- IEEE Conference on Computational Intelligence and Games
+
+- Artificial Intelligence and Interactive Digital Entertainment
+
+- Everything Procedural https://www.everythingprocedural.com/

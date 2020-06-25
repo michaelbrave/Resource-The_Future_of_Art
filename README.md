@@ -8,8 +8,10 @@ If you have proposed edits don't hesitate to get in touch or do a pull request a
 
 Some of the categories are as follows
 
-Core Area I Will Focus On:
-  Procedural Generation
+Primarily this is focused on Procedural Generation but I will also focus on
+
+Core Area of Focus:
+  Media Synthesis
   Non Computer Based Procedural Generation
   AI Art
   Computational Art & Creative Coding
@@ -26,5 +28,6 @@ Bordering Fields:
   User Experience and Human Computer Interaction
   Data Visualization
   Interactive Narrative
+  Dynamic Generation
 
 and I'm sure more that have yet to be invented or that I have not yet learned about

@@ -1,6 +1,9 @@
-# Computational Art & Creative Coding (Related Field)
+# Computational Creativity, Generative Art & Creative Coding
 
 ## Experts & People of Note
+**Brian Eno - Generative Music**
+- https://brian-eno.net/
+
 
 **Max Hawkins - Art, Computers, Randomization**
 - https://maxhawkins.me/
@@ -18,6 +21,8 @@
 
 - Expressive Processing: Digital Fictions, Computer Games, and Software Studies - Noah Wardrip-Fruin - https://www.amazon.com/Expressive-Processing-Fictions-Computer-Software-ebook/
 
+
+- Computer Models of Musical Creativity - David Cope https://www.amazon.com/Computer-Models-Musical-Creativity-Press/dp/026253410X 
 #### Research
 
 #### Other

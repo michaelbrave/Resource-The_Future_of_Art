@@ -13,3 +13,21 @@
 
 **Codepen.io**
 - https://codepen.io/
+
+**Rant - Text Generation**
+- https://berkin.me/rant/
+
+**Houdini**
+
+
+Acropora
+Art of Illusion
+CityEngine
+CityScape
+Filter Forge
+Grome
+Allegorithmic Substance
+SpeedTree
+Terragen
+Urban Pad
+World Machine

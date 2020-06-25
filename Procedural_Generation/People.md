@@ -114,6 +114,25 @@
 - http://ravenkwok.com/ 
 - https://twitter.com/RavenKwok 
 
+**Matt DesLauriers**
+- https://twitter.com/mattdesl
+- https://www.mattdesl.com/ 
+- https://github.com/mattdesl
+
+**Felipe Gutierrez**
+- https://felipunky.github.io/
+
+**Sean Murray - Programmer of No Man's Sky** 
+- https://nomanssky.gamepedia.com/Sean_Murray
+
+**Justin Murray**
+- https://themiddlemurray.com/
+- https://twitter.com/themiddlemurray 
+
+**Inigo Quilez**
+- https://www.iquilezles.org/
+- https://twitter.com/iquilezles
+
 **Michael Brave - Student / Currator of This List**
 - https://twitter.com/SomeBraveDude
 - https://github.com/michaelbrave

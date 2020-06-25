@@ -19,6 +19,7 @@
 #### Articles of Interest
 
 ## Communities
+- https://www.shadertoy.com/ 
 
 ## Projects of Note
 
