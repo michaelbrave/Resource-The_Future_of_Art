@@ -18,6 +18,9 @@
 
 #### Articles of Interest
 
+## Talks or Presentations
+- http://www.jamisbuck.org/presentations/rubyconf2011/#vertex
+
 ## Communities
 
 ## Projects of Note
