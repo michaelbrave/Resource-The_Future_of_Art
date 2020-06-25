@@ -52,7 +52,8 @@
 
 - Disney's Guilty Party - Clues & Mysteries
 
-- Far Cry - Animal Encounters
+- Far Cry Series - Animal Encounters
 
 - Shadow of Moordoor - Orcs
 
+- Assassins Creed Origins - Cities and Forrests

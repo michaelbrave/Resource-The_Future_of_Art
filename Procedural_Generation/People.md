@@ -133,6 +133,15 @@
 - https://www.iquilezles.org/
 - https://twitter.com/iquilezles
 
+**Chris Martens**
+- https://twitter.com/chrisamaphone
+- https://github.com/chrisamaphone
+
+**Rogelio E. Cardona-Rivera**
+- https://twitter.com/recardona
+- https://github.com/recardona
+
+
 **Michael Brave - Student / Currator of This List**
 - https://twitter.com/SomeBraveDude
 - https://github.com/michaelbrave
